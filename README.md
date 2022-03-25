@@ -1,3 +1,9 @@
+<p align="center">
+    <img src="https://user-images.githubusercontent.com/30418565/160103200-7353502c-f579-40f9-905a-75391194ccb0.png" alt="JSON"/>
+   <img src="https://user-images.githubusercontent.com/30418565/160103205-516f8720-bc04-43b0-8dd7-a85bf268c307.png" alt="WatchMe"/>
+</p>
+
+> Segundo desafio da trilha de React do Ignite da [Rocketseat](https://github.com/Rocketseat). O projeto consiste em listar filmes de uma API fake, utilizando o JSON Server e componentização de toda a aplicação.
 # :construction_worker: Rodando o projeto
 
 ```bash
